@@ -12,5 +12,5 @@ Additionally, if your Power BI dataset imports the data from your EDW, this data
  - How about not incurring additional costs for moving, transforming and storing data in another location?  
  - How about doing this all within T-SQL? 
  
-Then [Synapse Serverless SQL pools](https://docs.microsoft.com/en-us/azure/synapse-analytics/sql/on-demand-workspace-overview) in Azure Synapse Analytics may be the answer for you!
+Then [Synapse Serverless SQL pools](https://docs.microsoft.com/en-us/azure/synapse-analytics/sql/on-demand-workspace-overview) in Azure Synapse Analytics may be the answer for you! [Read more here](https://techcommunity.microsoft.com/t5/fasttrack-for-azure/build-a-logical-enterprise-data-warehouse-with-adls-and-synapse/ba-p/3622092)
 ![image](https://user-images.githubusercontent.com/57195527/189446878-42145e84-db3f-4e4a-ba24-9876115580bb.png)
